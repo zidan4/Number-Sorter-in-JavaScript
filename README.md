@@ -1,3 +1,3 @@
 # Number-Sorter-in-JavaScript
 
-freeCodeCamp Pracitice
+freeCodeCamp Pracitice Project.
